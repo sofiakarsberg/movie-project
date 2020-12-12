@@ -1,0 +1,29 @@
+body {
+  background-color: purple;
+  font-family: Avenir;
+  text-align: center;
+  padding-top: 230px;
+  color: violet;
+}
+
+h1 {
+ font-style: bold;
+ font-size: 50px;
+ padding-bottom: 10px;
+}
+
+button {
+  background: violet;
+  border-style: hidden;
+  border-radius: 30px;
+  font-family: Avenir;
+  font-size: 20px;
+  padding: 20px 15px;
+  color:white;
+  width: 15%;
+}
+
+button:hover {
+  background: #bd3bbd;
+  box-shadow: 0 10px 14px 0 rgba(0,0,0,0.24), 0 13px 45px 0 rgba(0,0,0,0.19);
+}
